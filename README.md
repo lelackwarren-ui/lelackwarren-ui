@@ -1,8 +1,21 @@
 Hi there 👋
 
-I'm Warren LELACK, an Applied Computing student.
+I'm **Warren LELACK**, an applied computing student who enjoys learning by building projects.
 
-I'm interested in software development, networking and cybersecurity.
+💻 **Development** | 🌐 **Networking** | 🔐 **Cybersecurity**
+
+---
+
+## 👨‍💻 About me
+
+- 🎓 Student in **Applied Computing**
+- 💻 Interested in **software development**
+- 🌐 Learning **computer networks**
+- 🔐 Interested in **cybersecurity**
+- 🧠 I like learning through practical projects
+- 🚀 Currently improving my skills one project at a time
+
+---
 
 🛠️ Languages
 
@@ -13,7 +26,7 @@ I'm interested in software development, networking and cybersecurity.
 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,code::blocks,,virtualbox,wireshark" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,virtualbox,cisco,wireshark,codeblocks" />
 </p>
 
 
@@ -21,8 +34,9 @@ I'm interested in software development, networking and cybersecurity.
 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlserver" />
 </p>
+
 
 
 📚 Currently learning
@@ -32,15 +46,16 @@ I'm interested in software development, networking and cybersecurity.
 </p>
 
 
+
 📧 Email: lelackwarren@gmail.com
 
-💻 GitHub: lelackwarren-ui
+💻 GitHub:[lelackwarren-ui](https://github.com/lelackwarren-ui)
 
-▶️ YouTube: W-tech
+▶️ YouTube: [W-tech](https://www.youtube.com/@w-tech-h6u)
 
-🎵 TikTok: @cybercenter_11
+🎵 TikTok:  [W-Tech](https://www.tiktok.com/@cybercenter_11)
 
-📸 Instagram: @w_tech11
+📸 Instagram: [@w_tech11](https://www.instagram.com/w_tech11/)
 - 📖 Progress as an IT student
 
 ---
@@ -48,5 +63,7 @@ I'm interested in software development, networking and cybersecurity.
 ### ⭐ Thanks for visiting my profile!
 
 I'm still learning, experimenting and building.
+
+**One project at a time. 🚀**
 
 **One project at a time. 🚀**
