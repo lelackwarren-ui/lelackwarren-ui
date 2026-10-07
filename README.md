@@ -19,7 +19,7 @@ I'm **Warren LELACK**, an applied computing student who enjoys learning by build
 
 ## 🛠️ Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-5C2D91?style=flat-square&logo=csharp&logoColor=white)
