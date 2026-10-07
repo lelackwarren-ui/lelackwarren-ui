@@ -1,116 +1,78 @@
-# Hi there 👋
+Hi there 👋
 
-I'm **Warren LELACK**, an applied computing student who enjoys learning by building projects.
+I'm Warren LELACK, an Applied Computing student.
 
-💻 **Development** | 🌐 **Networking** | 🔐 **Cybersecurity**
+I'm interested in software development, networking and cybersecurity.
 
-I'm currently improving my programming skills and working on small projects to better understand software development, databases, networking and cybersecurity.
+🛠️ Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,php,js,html,css" />
+</p>
 
-## 👨‍💻 About me
+🔧 Tools & Technologies
 
-- 🎓 Student in **Applied Computing**
-- 💻 Interested in **software development**
-- 🌐 Learning **computer networks**
-- 🔐 Interested in **cybersecurity**
-- 🧠 I like learning through practical projects
-- 🚀 Currently improving my skills one project at a time
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,codeblocks,idea,virtualbox,wireshark" />
+</p>
 
----
+Visual Studio
 
-## 🛠️ Technologies & Tools
+Visual Studio Code
 
-### Programming
+Code::Blocks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+NetBeans
 
-### Web
+VirtualBox
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Cisco Packet Tracer
 
-### Other
+Wireshark
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+🗄️ Databases
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-## 📚 Currently learning
+MySQL
 
-- C and C++ programming
-- C# and .NET development
-- Python
-- Databases and SQL
-- Computer networking
-- Linux
-- Cybersecurity fundamentals
-- Git and GitHub
+SQL Server
 
----
+PostgreSQL
 
-## 🚀 Projects
+📚 Currently learning
 
-Here are some of the projects I've been working on:
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,linux,c,php,js" />
+</p>
 
-## 🚀 Projects
+C#
 
-Some projects I've worked on while learning and practicing programming:
+Python
 
-### 🐍 Python Project
-Small Python projects and exercises to practice programming logic, functions, data structures and problem solving.
+Networking
 
-### 💻 C# Project
-Applications developed with C# to practice object-oriented programming, Windows Forms and database integration.
+Linux
 
-### 👨‍🎓 GestionEtudiant
-A student management project developed in C to practice structures, functions, arrays, pointers and file management.
+Cybersecurity
 
-### 🥗 NutriSmart
-A project related to nutrition and healthy food management, developed as part of my learning and project work.
+C
 
-> I'm still improving these projects and adding new ones as I learn.
+PHP
 
-> I'm continuously adding new projects as I learn.
+Javascript
 
----
+📧 Email: lelackwarren@gmail.com
 
-## 🎯 My goals
+💻 GitHub: lelackwarren-ui
 
-I want to become a versatile developer with strong foundations in:
+▶️ YouTube: W-tech
 
-**Programming → Software Development → Networking → Cybersecurity**
+🎵 TikTok: @cybercenter_11
 
-My goal is not only to learn technologies, but also to understand how they work and use them to create useful projects.
-
----
-
-## 🌐 Find me online
-
-- 📧 Email: **lelackwarren@gmail.com**
-- 💻 GitHub: **[lelackwarren-ui](https://github.com/lelackwarren-ui)**
-- ▶️ YouTube: **[W-tech](https://www.youtube.com/@w-tech-h6u)**
-- 🎵 TikTok: **[@cybercenter_11](https://www.tiktok.com/@cybercenter_11)**
-- 📸 Instagram: **[@w_tech11](https://www.instagram.com/w_tech11/)**
-
----
-
-## 💡 A little more about my GitHub
-
-This profile is where I share my:
-
-- 📂 University projects
-- 🧪 Programming exercises
-- 🔧 Small personal projects
-- 🌐 Web development experiments
-- 🔐 Cybersecurity and networking learning
+📸 Instagram: @w_tech11
 - 📖 Progress as an IT student
 
 ---
