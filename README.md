@@ -13,22 +13,10 @@ I'm interested in software development, networking and cybersecurity.
 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,codeblocks,idea,virtualbox,wireshark" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,code::blocks,,virtualbox,wireshark" />
 </p>
 
-Visual Studio
 
-Visual Studio Code
-
-Code::Blocks
-
-NetBeans
-
-VirtualBox
-
-Cisco Packet Tracer
-
-Wireshark
 
 🗄️ Databases
 
@@ -36,11 +24,6 @@ Wireshark
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-MySQL
-
-SQL Server
-
-PostgreSQL
 
 📚 Currently learning
 
@@ -48,21 +31,6 @@ PostgreSQL
   <img src="https://skillicons.dev/icons?i=cs,python,linux,c,php,js" />
 </p>
 
-C#
-
-Python
-
-Networking
-
-Linux
-
-Cybersecurity
-
-C
-
-PHP
-
-Javascript
 
 📧 Email: lelackwarren@gmail.com
 
